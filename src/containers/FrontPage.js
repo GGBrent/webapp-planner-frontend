@@ -17,7 +17,7 @@ export default function FrontPage({ isLoggedIn }) {
           </p>
           <hr className="my-4" />
           <Link to="/register">
-            <button type="button" class="btn btn-primary btn-lg">
+            <button type="button" className="btn btn-primary btn-lg">
               Sign Up
             </button>
           </Link>
