@@ -1,0 +1,112 @@
+.app-page {
+  margin-left: 250px;
+  font-size: 20px;
+  padding: 80px 10px;
+}
+
+.app-page-title {
+  font-size: 30px;
+  margin-top: 5px;
+}
+
+.front-page {
+  margin-top: 150px;
+}
+
+.register-form {
+  width: 50%;
+  height: 50%;
+  margin-top: 140px;
+  left: 25%;
+}
+
+.create-session-form {
+  width: 75%;
+  height: 70%;
+  margin-top: 30px;
+  left: 12%;
+}
+
+textarea {
+  resize: none;
+}
+
+.navbar-main {
+  background-color: rgb(70, 151, 116);
+  justify-content: space-between;
+  position: fixed;
+  width: 100%;
+  left: 0;
+  top: 0;
+  z-index: 100;
+  border-top: 0;
+}
+
+.navbar-planner-title {
+  justify-content: none;
+}
+
+.navbar-planner-text {
+  font-size: 26px;
+  text-shadow: 1px 1px black;
+  padding-left: 6px;
+}
+
+.login-form {
+  display: flex;
+  margin: 10px 0;
+}
+
+.login-input {
+  margin-right: 10px;
+}
+
+.sidenav {
+  height: 100%;
+  width: 250px;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  overflow-x: hidden;
+  padding-top: 100px;
+  border-color: black;
+  border-style: solid;
+  border-width: thin;
+}
+
+.sidenav a {
+  padding: 18px 8px 18px 40px;
+  text-decoration: none;
+  font-size: 18px;
+  display: block;
+  color: #e9eaed;
+}
+
+.sidenav a:hover {
+  color: white;
+  background-color: black;
+}
+
+.image-align {
+  float: left;
+  padding: 18px 8px 18px 32px;
+  display: block;
+}
+
+.selected {
+  padding: 18px 8px 18px 40px;
+  text-decoration: none;
+  font-size: 18px;
+  display: block;
+  background-color: black;
+  color: #e9eaed;
+}
+
+.greet-logout {
+  display: flex;
+  margin: 10px 0;
+}
+
+.greet-text {
+  font-size: 20px;
+}
