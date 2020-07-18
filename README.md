@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![ProjectPage](https://user-images.githubusercontent.com/55859497/87830740-51dea380-c847-11ea-8088-4b5d3c69dfc1.png)
 
+Link to backend: https://github.com/ggbrent/webapp-planner-backend
+
 ## Available Scripts
 
 In the project directory, you can run:
